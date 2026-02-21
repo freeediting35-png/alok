@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_service_description">FocusGuard uses this service to detect doomscrolling and block distracting apps.</string>
+</resources>
