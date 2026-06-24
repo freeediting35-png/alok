@@ -1,0 +1,7 @@
+downloads/
+temp_downloads/
+history.txt
+__pycache__/
+*.mp4
+*.mkv
+*.webm
