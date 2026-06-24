@@ -1,0 +1,4 @@
+duckduckgo-search
+yt-dlp
+opencv-python
+numpy
